@@ -2,9 +2,9 @@
 - 👀 I’m interested in arte, programacion, software libre
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on proyectos de programacion inicial
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me ig:@mavii_trevi
+- 😄 Pronouns: maviii
+- ⚡ Fun fact: vegetariana
 
 <!---
 maviTrevi1/maviTrevi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
